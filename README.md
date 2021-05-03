@@ -2,8 +2,9 @@
 
 ## Hi there <img src="https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/bluesteel.gif" width="48px" alt="hi">
 
-Im Neill aka ![clickonrefresh](https://img.shields.io/badge/Clickonrefresh-informational?style=plastic&logo=clickonrefresh&logoColor=white&color=2bbc8a) [clickonrefresh]{% include button.html url="http://www.github.com/clickonrefresh" %} , a self taught developer.
+Im Neill aka ![clickonrefresh](https://img.shields.io/badge/Clickonrefresh-informational?style=plastic&logo=clickonrefresh&logoColor=white&color=2bbc8a) , a self taught developer.
 
+[clickonrefresh](https://github.com/clickonrefresh){: .btn}
 ## 😄 Ask me about:
   - Custom Odoo Deployments
   - Docker
