@@ -39,7 +39,6 @@ Im Neill aka ![clickonrefresh](https://img.shields.io/badge/Clickonrefresh-infor
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
