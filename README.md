@@ -4,9 +4,6 @@
 
 Im Neill aka ![clickonrefresh](https://img.shields.io/badge/Clickonrefresh-informational?style=plastic&logo=clickonrefresh&logoColor=white&color=2bbc8a) , a self taught developer.
 
-[clickonrefresh](https://github.com/clickonrefresh){: .btn}
-
-<form action="https://github.com/clickonrefresh.com/" method="get" target="_blank"><button type="submit">Click me</button></form>
 
 ## 😄 Ask me about:
   - Custom Odoo Deployments
