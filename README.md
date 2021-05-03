@@ -4,7 +4,7 @@
 
 Im Neill aka ![clickonrefresh](https://img.shields.io/badge/Clickonrefresh-informational?style=plastic&logo=clickonrefresh&logoColor=white&color=2bbc8a), a self taught developer.
 
-##😄 Ask me about:
+## 😄 Ask me about:
   - Custom Odoo Deployments
   - Docker
   - Linux
@@ -12,7 +12,7 @@ Im Neill aka ![clickonrefresh](https://img.shields.io/badge/Clickonrefresh-infor
   - Github basics
   - Documentation Basics
 
-##🌱 Im Currently Learning:
+## 🌱 Im Currently Learning:
   - Python
   - Full Stack Development
   - Dev-Ops
