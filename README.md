@@ -9,6 +9,7 @@ Im Neill aka ![clickonrefresh](https://img.shields.io/badge/Clickonrefresh-infor
   - Docker
   - Linux
   - Virtualisation
+  - Github basics
 
 ## What Im Learning:
   - Python
@@ -18,6 +19,8 @@ Im Neill aka ![clickonrefresh](https://img.shields.io/badge/Clickonrefresh-infor
   - Data Structures
   - Web Application Development
   - Cloud
+  - Github
+  - CL/CI
 
 
 
