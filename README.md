@@ -47,8 +47,8 @@ Im Neill aka ![clickonrefresh](https://img.shields.io/badge/Clickonrefresh-infor
 
 
 
-[GitHub followers](https://img.shields.io/github/followers/clickonrefresh?style=social)
-[Twitter Follow](https://img.shields.io/twitter/follow/clickonrefresh?style=social)
+![GitHub followers](https://img.shields.io/github/followers/clickonrefresh?style=social)(https://img.shields.io/twitter/follow/clickonrefresh?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/clickonrefresh?style=social)(https://img.shields.io/twitter/follow/clickonrefresh?style=social)
 
 
 [Make remote access, managed DNS and SSL encrytpion easy with a Noip.com account, free and paid options](https://www.noip.com?fpr=clickonrefresh)
