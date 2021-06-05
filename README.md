@@ -1,3 +1,4 @@
+<!--{seo}-->
 ![Copy of clickonrefresh(8)](https://user-images.githubusercontent.com/72121107/114459748-3a1f2a80-9be1-11eb-95ec-b0b3838ccff4.png)
 
 ## Hi there <img src="https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/bluesteel.gif" width="48px" alt="hi">
@@ -52,4 +53,4 @@ Im Neill aka ![clickonrefresh](https://img.shields.io/badge/Clickonrefresh-infor
 
 
 [Make remote access, managed DNS and SSL encryption easy with a Noip.com account, free and paid options](https://www.noip.com?fpr=clickonrefresh)
-<!--{seo}-->
+
