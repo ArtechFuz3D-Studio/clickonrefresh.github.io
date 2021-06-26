@@ -11,11 +11,12 @@ Im Neill aka ![clickonrefresh](https://img.shields.io/badge/Clickonrefresh-infor
   - Docker
   - Linux
   - Virtualisation
-  - Github basics
-  - Documentation Basics
+  - Web Hosting
+
 
 ## 🌱 Im Currently Learning:
   - Python
+  - Javascript
   - Full Stack Development
   - Dev-Ops
   - NodeJs
@@ -23,7 +24,10 @@ Im Neill aka ![clickonrefresh](https://img.shields.io/badge/Clickonrefresh-infor
   - Web Application Development
   - Cloud
   - Github
-  - CL/CI
+  - Ansible
+  - Docker
+  - Odoo Development
+ 
 
 
 ⚡
