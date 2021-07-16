@@ -16,6 +16,8 @@ Im Neill aka ![clickonrefresh](https://img.shields.io/badge/Clickonrefresh-infor
 
 # V2.0
 <a href="https://clickonrefresh-3d.netlify.app/">clickonrefresh 3D-V2.0.1 on Netlify</a>
+  
+<a href="https://clickonrefresh.gitlab.io/clickonrefresh-3d/">clickonrefresh 3D-V2.0.1 on Gitlab Pages</a>
 </p>
 
 ## 😄 Ask me about:
