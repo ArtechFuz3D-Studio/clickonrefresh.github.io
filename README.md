@@ -7,12 +7,16 @@
 Im Neill aka ![clickonrefresh](https://img.shields.io/badge/Clickonrefresh-informational?style=plastic&logo=clickonrefresh&logoColor=white&color=2bbc8a) , a self taught developer.
 
 # This App is deployed on the following sites:
+<p>
 <a href="https://awesome-saha-db069b.netlify.app/">clickonrefresh 3D-V1.0 on Netlify</a>
+
 <a href="https://clickonrefresh.github.io/">clickonrefresh 3D-V1.0 on Github Pages</a>
+
+<a href="https://clickonrefreshgithubio-nvgpkw.codecapsules.co.za/">clickonrefresh 3D-V1.0 on CodeCapsules</a>
 
 # V2.0
 <a href="https://clickonrefresh-3d.netlify.app/">clickonrefresh 3D-V2.0.1 on Netlify</a>
-
+</p>
 
 ## 😄 Ask me about:
   - Custom Odoo Deployments
